@@ -56,18 +56,4 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/MoatazElmesmary/">
-    <img src="https://img.shields.io/badge/LinkedIn-MoatazElmesmary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/MoatazElmesmary">
-    <img src="https://img.shields.io/badge/Twitter-MoatazElmesmary-1DA1F2?style=for-the-badge&logo=X&logoColor=white">
-  </a>
-  <a href="https://github.com/Moataz-Elmesmary">
-    <img src="https://img.shields.io/badge/GitHub-MoatazElmesmary-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:moataz.mesmary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+
